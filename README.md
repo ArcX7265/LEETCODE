@@ -32,4 +32,12 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArcX7265/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Math
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/ArcX7265/LEETCODE/tree/master/1922-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/ArcX7265/LEETCODE/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
