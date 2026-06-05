@@ -31,6 +31,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 ## Sorting
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArcX7265/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArcX7265/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
@@ -49,4 +50,24 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ArcX7265/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Hash Table
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArcX7265/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArcX7265/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArcX7265/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArcX7265/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArcX7265/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
