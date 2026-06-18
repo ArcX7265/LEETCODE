@@ -38,6 +38,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 ## Math
 |  |
 | ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/ArcX7265/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1922-count-good-numbers](https://github.com/ArcX7265/LEETCODE/tree/master/1922-count-good-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ArcX7265/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
