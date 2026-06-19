@@ -6,6 +6,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 ## Array
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/ArcX7265/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [3093-longest-common-suffix-queries](https://github.com/ArcX7265/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArcX7265/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
@@ -82,4 +83,8 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ArcX7265/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/ArcX7265/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
