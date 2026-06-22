@@ -12,6 +12,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/ArcX7265/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [3093-longest-common-suffix-queries](https://github.com/ArcX7265/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
 ## Trie
 |  |
@@ -58,6 +59,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArcX7265/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1189-maximum-number-of-balloons](https://github.com/ArcX7265/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 ## Tree
 |  |
 | ------- |
@@ -87,4 +89,8 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/ArcX7265/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/ArcX7265/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
