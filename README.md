@@ -6,6 +6,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/ArcX7265/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/ArcX7265/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArcX7265/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -128,4 +129,12 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArcX7265/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ArcX7265/LEETCODE/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ArcX7265/LEETCODE/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
