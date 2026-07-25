@@ -6,6 +6,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 ## Array
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/ArcX7265/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [1260-shift-2d-grid](https://github.com/ArcX7265/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/ArcX7265/LEETCODE/tree/master/1732-find-the-highest-altitude) |
@@ -63,6 +64,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/ArcX7265/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ArcX7265/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
