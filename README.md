@@ -8,6 +8,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/ArcX7265/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArcX7265/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/ArcX7265/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -46,6 +47,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArcX7265/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArcX7265/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -121,6 +123,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 ## Divide and Conquer
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArcX7265/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -129,6 +132,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArcX7265/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
@@ -149,5 +153,18 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
