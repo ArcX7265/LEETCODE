@@ -15,6 +15,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [1331-rank-transform-of-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/ArcX7265/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ArcX7265/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArcX7265/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArcX7265/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3093-longest-common-suffix-queries](https://github.com/ArcX7265/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
@@ -62,6 +63,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [0050-powx-n](https://github.com/ArcX7265/LEETCODE/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArcX7265/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ArcX7265/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ArcX7265/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/ArcX7265/LEETCODE/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArcX7265/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ArcX7265/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
@@ -70,6 +72,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ArcX7265/LEETCODE/tree/master/0050-powx-n) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ArcX7265/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/ArcX7265/LEETCODE/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -155,6 +158,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ArcX7265/LEETCODE/tree/master/1260-shift-2d-grid) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ArcX7265/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -176,4 +180,8 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ArcX7265/LEETCODE/tree/master/0051-n-queens) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ArcX7265/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
