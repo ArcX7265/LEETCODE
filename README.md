@@ -6,6 +6,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ArcX7265/LEETCODE/tree/master/0051-n-queens) |
 | [0119-pascals-triangle-ii](https://github.com/ArcX7265/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArcX7265/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArcX7265/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -171,4 +172,8 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ArcX7265/LEETCODE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
