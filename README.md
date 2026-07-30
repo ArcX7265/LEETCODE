@@ -25,6 +25,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ArcX7265/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1189-maximum-number-of-balloons](https://github.com/ArcX7265/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArcX7265/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArcX7265/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -93,6 +94,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ArcX7265/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ArcX7265/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/ArcX7265/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -187,6 +189,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ArcX7265/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/ArcX7265/LEETCODE/tree/master/0051-n-queens) |
 ## Queue
 |  |
