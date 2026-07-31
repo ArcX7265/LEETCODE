@@ -30,6 +30,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArcX7265/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArcX7265/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ArcX7265/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArcX7265/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/ArcX7265/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
 ## Trie
 |  |
@@ -50,6 +51,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ArcX7265/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArcX7265/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArcX7265/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -60,6 +62,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [1331-rank-transform-of-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ArcX7265/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArcX7265/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ArcX7265/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArcX7265/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
@@ -100,6 +103,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [1331-rank-transform-of-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArcX7265/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ArcX7265/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArcX7265/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArcX7265/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
@@ -135,6 +139,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ArcX7265/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArcX7265/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArcX7265/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
