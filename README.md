@@ -198,6 +198,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ArcX7265/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/ArcX7265/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ArcX7265/LEETCODE/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/ArcX7265/LEETCODE/tree/master/0052-n-queens-ii) |
 ## Queue
 |  |
 | ------- |
