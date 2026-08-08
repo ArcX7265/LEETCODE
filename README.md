@@ -34,6 +34,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ArcX7265/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArcX7265/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/ArcX7265/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ArcX7265/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Trie
 |  |
 | ------- |
@@ -109,6 +110,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArcX7265/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/ArcX7265/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArcX7265/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ArcX7265/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Tree
 |  |
 | ------- |
