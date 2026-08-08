@@ -20,6 +20,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArcX7265/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArcX7265/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ArcX7265/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/ArcX7265/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3093-longest-common-suffix-queries](https://github.com/ArcX7265/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArcX7265/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/ArcX7265/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -208,4 +209,8 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ArcX7265/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/ArcX7265/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
