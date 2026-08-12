@@ -21,6 +21,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArcX7265/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ArcX7265/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ArcX7265/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ArcX7265/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ArcX7265/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3093-longest-common-suffix-queries](https://github.com/ArcX7265/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArcX7265/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -110,6 +111,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [1331-rank-transform-of-an-array](https://github.com/ArcX7265/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArcX7265/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ArcX7265/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ArcX7265/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ArcX7265/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArcX7265/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/ArcX7265/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -170,6 +172,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArcX7265/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ArcX7265/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Number Theory
 |  |
 | ------- |
