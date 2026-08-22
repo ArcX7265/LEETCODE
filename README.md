@@ -85,6 +85,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArcX7265/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ArcX7265/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ArcX7265/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ArcX7265/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ArcX7265/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
