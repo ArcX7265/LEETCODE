@@ -33,6 +33,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ArcX7265/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1189-maximum-number-of-balloons](https://github.com/ArcX7265/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ArcX7265/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/ArcX7265/LEETCODE/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArcX7265/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ArcX7265/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArcX7265/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -57,6 +58,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/ArcX7265/LEETCODE/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ArcX7265/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArcX7265/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ArcX7265/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -82,6 +84,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [1344-angle-between-hands-of-a-clock](https://github.com/ArcX7265/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ArcX7265/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/ArcX7265/LEETCODE/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/ArcX7265/LEETCODE/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArcX7265/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ArcX7265/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ArcX7265/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
@@ -223,4 +226,8 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 |  |
 | ------- |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ArcX7265/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/ArcX7265/LEETCODE/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
