@@ -29,6 +29,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [3718-smallest-missing-multiple-of-k](https://github.com/ArcX7265/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ArcX7265/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArcX7265/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ArcX7265/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [3536-maximum-product-of-two-digits](https://github.com/ArcX7265/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ArcX7265/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ArcX7265/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ArcX7265/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
