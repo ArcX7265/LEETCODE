@@ -31,6 +31,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArcX7265/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ArcX7265/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ArcX7265/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/ArcX7265/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
@@ -161,6 +162,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/ArcX7265/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ArcX7265/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ArcX7265/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |
