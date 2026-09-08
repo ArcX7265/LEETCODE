@@ -96,6 +96,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [3536-maximum-product-of-two-digits](https://github.com/ArcX7265/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ArcX7265/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ArcX7265/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3870-count-commas-in-range](https://github.com/ArcX7265/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ArcX7265/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ArcX7265/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
