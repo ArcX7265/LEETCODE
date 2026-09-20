@@ -44,6 +44,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ArcX7265/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ArcX7265/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/ArcX7265/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
+| [3498-reverse-degree-of-a-string](https://github.com/ArcX7265/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ArcX7265/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Trie
 |  |
@@ -206,6 +207,7 @@ I upload leetcode solutions on this repository. What started as a hobby, has tur
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ArcX7265/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ArcX7265/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/ArcX7265/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
